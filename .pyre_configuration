@@ -1,8 +1,8 @@
 {
   "source_directories": [
-    "."
+    "ai-module"
   ],
   "search_path": [
-    "venv/Lib/site-packages"
+    "ai-module/venv/Lib/site-packages"
   ]
 }
